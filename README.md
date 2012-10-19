@@ -4,6 +4,12 @@ A simple gem for unnecessarily censoring strings of text
 
 [![Build Status](https://travis-ci.org/JDStraughan/unnecessary-censorship.png)](https://travis-ci.org/JDStraughan/unnecessary-censorship.png)
 
+## Prerequisites
+
+To us Unnecessary Censorship you need the following:
+
+Ruby 1.9.2 or 1.9.3 or compatible.
+
 ## Basic Usage
 
 You can use the `unnecessarily_censor` method as you would any String method
