@@ -2,6 +2,8 @@
 
 A simple gem for unnecessarily censoring strings of text
 
+[![Build Status](https://travis-ci.org/JDStraughan/unnecessary-censorship.png)](https://travis-ci.org/JDStraughan/unnecessary-censorship.png)
+
 ## Basic Usage
 
 You can use the `unnecessarily_censor` method as you would any String method
