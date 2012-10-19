@@ -25,6 +25,8 @@ Echoe.new('unnecessary_censorship', '0.1.0') do |p|
   p.email           = "jdstraughan@gmail.com"
   p.ignore_pattern  = ["tmp/*", "script/*"]
   p.development_dependencies = []
+  p.cert_chain      = ['gem-public_cert.pem']
+  p.signing_key     = '~/gem-private_key.pem'
 end
 
 Dir["#{File.dirname(__FILE__)}/tasks/*.rake"].sort.each { |ext| load ext }
