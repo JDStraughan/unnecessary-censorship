@@ -17,7 +17,7 @@ task "spec" => "spec:normal"
 
 task "default" => "spec"
 
-Echoe.new('unnecessary_censorship', '0.1.0') do |p|
+Echoe.new('unnecessary_censorship', '0.1.1') do |p|
   p.description     = "Unnecessarily censor a string of english words.  Extends String class for simple integration into any Ruby project."
   p.summary         = "Unnecessarily censor a string of english words."
   p.url             = "http://github.com/jdstraughan/unnecessary-censorship"
