@@ -2,7 +2,7 @@
 
 A simple gem for unnecessarily censoring strings of text
 
-[![Build Status](https://travis-ci.org/#!/JDStraughan/unnecessary-censorship)](https://travis-ci.org/JDStraughan/unnecessary-censorship.png)
+[![Build Status](https://travis-ci.org/JDStraughan/unnecessary-censorship.png)](https://travis-ci.org/#!/JDStraughan/unnecessary-censorship)
 
 ## Prerequisites
 
