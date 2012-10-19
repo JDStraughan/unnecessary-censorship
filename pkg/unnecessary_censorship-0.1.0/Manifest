@@ -1,0 +1,9 @@
+Manifest
+README.rdoc
+Rakefile
+lib/en_us/adjectives.txt
+lib/en_us/present_participles.txt
+lib/en_us/verbs.txt
+lib/unnecessary_censorship.rb
+spec/spec_helper.rb
+spec/unnecessary_censorship/unnecessary_censorship_spec.rb
